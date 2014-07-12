@@ -52,8 +52,8 @@ body {
   text-align: center;
 }
 
-.circle a:hover{
-	background: #fff;
+.circle a img:hover{
+	width: 115%;
 }
 
 .menu_button {
